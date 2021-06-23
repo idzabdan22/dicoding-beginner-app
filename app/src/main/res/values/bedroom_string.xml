@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="judul_bd1">
+        Cottage Bed
+    </string>
+
+    <string name="judul_bd2">
+        Ashford Glen
+    </string>
+
+    <string name="judul_bd3">
+        Coastcal Master
+    </string>
+
+    <string name="bedroom1">
+        Lang elit. Donec rutrum nulla felis, vitae bibendum nunc rhoncus sit amet. Nulla dapibus tincidunt lorem sed feugiat. In gravida ligula sem, id dignissim massa ultrices a. Curabitur maximus, urna a fringilla eleifend, arcu quam tincidunt nunc, a ullamcorper arcu leo sit amet libero. Quisque ac efficitur lacus, nec lobortis dui. Mauris laoreet ullamcorper feugiat. Ut sagittis ligula a urna porta, a sollicitudin turpis sollicitudin. Nulla vel auctor augue, ut hendrerit arcu. Nunc porta leo at velit euismod, egestas fringilla lectus commodo. Phasellus ac tristique nulla. Suspendisse convallis tellus ut metus vehicula mollis. Proin nec ipsum lectus.
+    </string>
+
+    <string name="bedroom2">
+        lang elit. Donec rutrum nulla felis, vitae bibendum nunc rhoncus sit amet. Nulla dapibus tincidunt lorem sed feugiat. In gravida ligula sem, id dignissim massa ultrices a. Curabitur maximus, urna a fringilla eleifend, arcu quam tincidunt nunc, a ullamcorper arcu leo sit amet libero. Quisque ac efficitur lacus, nec lobortis dui. Mauris laoreet ullamcorper feugiat. Ut sagittis ligula a urna porta, a sollicitudin turpis sollicitudin. Nulla vel auctor augue, ut hendrerit arcu. Nunc porta leo at velit euismod, egestas fringilla lectus commodo. Phasellus ac tristique nulla. Suspendisse convallis tellus ut metus vehicula mollis. Proin nec ipsum lectus.
+    </string>
+
+    <string name="bedroom3">
+        sng elit. Donec rutrum nulla felis, vitae bibendum nunc rhoncus sit amet. Nulla dapibus tincidunt lorem sed feugiat. In gravida ligula sem, id dignissim massa ultrices a. Curabitur maximus, urna a fringilla eleifend, arcu quam tincidunt nunc, a ullamcorper arcu leo sit amet libero. Quisque ac efficitur lacus, nec lobortis dui. Mauris laoreet ullamcorper feugiat. Ut sagittis ligula a urna porta, a sollicitudin turpis sollicitudin. Nulla vel auctor augue, ut hendrerit arcu. Nunc porta leo at velit euismod, egestas fringilla lectus commodo. Phasellus ac tristique nulla. Suspendisse convallis tellus ut metus vehicula mollis. Proin nec ipsum lectus.
+    </string>
+</resources>

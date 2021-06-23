@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.ContentActivity">
+
+    <RelativeLayout
+          android:id="@+id/relative_top"
+          style="@style/relative_top_bar">
+
+          <ImageView
+              android:id="@+id/back_button"
+              android:src="@drawable/backbutton_logo"
+              style="@style/image_topbar" />
+
+          <TextView
+              android:id="@+id/detail_act"
+              android:layout_below="@+id/back_button"
+              android:text="Details"
+              style="@style/text_topbar"/>
+    </RelativeLayout>
+
+    <FrameLayout
+        android:layout_below="@+id/relative_top"
+        android:id="@+id/fl_details"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</RelativeLayout>

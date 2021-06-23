@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="judul_dg1">
+        Western Style
+    </string>
+
+    <string name="judul_dg2">
+        Port Margate
+    </string>
+
+    <string name="judul_dg3">
+        Intracoastal Residence
+    </string>
+    
+    <string name="diningroom1">
+        sng elit. Donec rutrum nulla felis, vitae bibendum nunc rhoncus sit amet. Nulla dapibus tincidunt lorem sed feugiat. In gravida ligula sem, id dignissim massa ultrices a. Curabitur maximus, urna a fringilla eleifend, arcu quam tincidunt nunc, a ullamcorper arcu leo sit amet libero. Quisque ac efficitur lacus, nec lobortis dui. Mauris laoreet ullamcorper feugiat. Ut sagittis ligula a urna porta, a sollicitudin turpis sollicitudin. Nulla vel auctor augue, ut hendrerit arcu. Nunc porta leo at velit euismod, egestas fringilla lectus commodo. Phasellus ac tristique nulla. Suspendisse convallis tellus ut metus vehicula mollis. Proin nec ipsum lectus.
+    </string>
+
+    <string name="diningroom2">
+        ssng elit. Donec rutrum nulla felis, vitae bibendum nunc rhoncus sit amet. Nulla dapibus tincidunt lorem sed feugiat. In gravida ligula sem, id dignissim massa ultrices a. Curabitur maximus, urna a fringilla eleifend, arcu quam tincidunt nunc, a ullamcorper arcu leo sit amet libero. Quisque ac efficitur lacus, nec lobortis dui. Mauris laoreet ullamcorper feugiat. Ut sagittis ligula a urna porta, a sollicitudin turpis sollicitudin. Nulla vel auctor augue, ut hendrerit arcu. Nunc porta leo at velit euismod, egestas fringilla lectus commodo. Phasellus ac tristique nulla. Suspendisse convallis tellus ut metus vehicula mollis. Proin nec ipsum lectus.
+    </string>
+
+    <string name="diningroom3">
+        lang elit. Donec rutrum nulla felis, vitae bibendum nunc rhoncus sit amet. Nulla dapibus tincidunt lorem sed feugiat. In gravida ligula sem, id dignissim massa ultrices a. Curabitur maximus, urna a fringilla eleifend, arcu quam tincidunt nunc, a ullamcorper arcu leo sit amet libero. Quisque ac efficitur lacus, nec lobortis dui. Mauris laoreet ullamcorper feugiat. Ut sagittis ligula a urna porta, a sollicitudin turpis sollicitudin. Nulla vel auctor augue, ut hendrerit arcu. Nunc porta leo at velit euismod, egestas fringilla lectus commodo. Phasellus ac tristique nulla. Suspendisse convallis tellus ut metus vehicula mollis. Proin nec ipsum lectus.
+    </string>
+</resources>

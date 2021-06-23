@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardview"
+    android:layout_margin="5dp"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        app:cardCornerRadius="20dp"
+        android:layout_marginBottom="5dp"
+        android:elevation="15dp"
+        android:layout_height="290dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:src="@drawable/bedroom"
+                android:id="@+id/cardview_imgphotos"
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:scaleType="fitXY"/>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_below="@+id/cardview_imgphotos"
+                android:id="@+id/ciclePhoto"
+                android:layout_marginTop="5dp"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:paddingLeft="10dp"
+                app:civ_border_width="0.5dp"
+                android:src="@drawable/userphoto"/>
+
+            <TextView
+                android:id="@+id/name_user"
+                android:layout_below="@+id/cardview_imgphotos"
+                android:gravity="center_vertical"
+                android:layout_marginTop="14dp"
+                android:layout_marginLeft="7dp"
+                android:fontFamily="@font/reguler"
+                android:layout_width="wrap_content"
+                android:layout_toRightOf="@+id/ciclePhoto"
+                android:layout_height="wrap_content"
+                android:text="Abdan Idza Hurmuzi"
+                android:textSize="12sp"/>
+            <TextView
+                android:layout_below="@+id/ciclePhoto"
+                android:paddingLeft="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:textColor="@color/black"
+                android:fontFamily="@font/sfdisplayheavy"
+                android:text="@string/judul_bt1"
+                android:id="@+id/judul_cardview"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:layout_below="@+id/judul_cardview"
+                android:id="@+id/desc_text"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:layout_marginTop="3dp"
+                android:text="@string/bathroom1"
+                android:justificationMode="inter_word"
+                android:textSize="12sp" />
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

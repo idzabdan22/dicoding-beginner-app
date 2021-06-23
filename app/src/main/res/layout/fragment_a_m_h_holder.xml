@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.MainFragment.AMHHolderFragment">
+
+    <RelativeLayout
+        android:id="@+id/relholder"
+        style="@style/relative_top_bar">
+        <ImageView
+            android:id="@+id/back_button"
+            style="@style/image_topbar"/>
+
+        <TextView
+            android:layout_below="@+id/back_button"
+            style="@style/text_topbar"
+            android:text="MyHouse" />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/fl_addmyhouse"
+        android:layout_below="@id/relholder"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</RelativeLayout>

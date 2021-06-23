@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="judul_lv1">
+        Huntington Model
+    </string>
+
+    <string name="judul_lv2">
+        Classic Hill Coutry
+    </string>
+
+    <string name="judul_lv3">
+        Family Cozy Home
+    </string>
+    
+    <string name="livingroom1">
+        Lorem ipsum dolor sit amet,consectetur adipiscing elit. Donec rutrum nulla felis, vitae bibendum nunc rhoncus sit amet. Nulla dapibus tincidunt lorem sed feugiat. In gravida ligula sem, id dignissim massa ultrices a. Curabitur maximus, urna a fringilla eleifend, arcu quam tincidunt nunc, a ullamcorper arcu leo sit amet libero. Quisque ac efficitur lacus, nec lobortis dui. Mauris laoreet ullamcorper feugiat. Ut sagittis ligula a urna porta, a sollicitudin turpis sollicitudin. Nulla vel auctor augue, ut hendrerit arcu. Nunc porta leo at velit euismod, egestas fringilla lectus commodo. Phasellus ac tristique nulla. Suspendisse convallis tellus ut metus vehicula mollis. Proin nec ipsum lectus.
+    </string>
+
+    <string name="livingroom2">
+        Lorem ipsum dolor sit amet,consectetur adipiscing elit. Donec rutrum nulla felis, vitae bibendum nunc rhoncus sit amet. Nulla dapibus tincidunt lorem sed feugiat. In gravida ligula sem, id dignissim massa ultrices a. Curabitur maximus, urna a fringilla eleifend, arcu quam tincidunt nunc, a ullamcorper arcu leo sit amet libero. Quisque ac efficitur lacus, nec lobortis dui. Mauris laoreet ullamcorper feugiat. Ut sagittis ligula a urna porta, a sollicitudin turpis sollicitudin. Nulla vel auctor augue, ut hendrerit arcu. Nunc porta leo at velit euismod, egestas fringilla lectus commodo. Phasellus ac tristique nulla. Suspendisse convallis tellus ut metus vehicula mollis. Proin nec ipsum lectus.
+    </string>
+
+    <string name="livingroom3">
+        Lorem ipsum dolor sit amet,consectetur adipiscing elit. Donec rutrum nulla felis, vitae bibendum nunc rhoncus sit amet. Nulla dapibus tincidunt lorem sed feugiat. In gravida ligula sem, id dignissim massa ultrices a. Curabitur maximus, urna a fringilla eleifend, arcu quam tincidunt nunc, a ullamcorper arcu leo sit amet libero. Quisque ac efficitur lacus, nec lobortis dui. Mauris laoreet ullamcorper feugiat. Ut sagittis ligula a urna porta, a sollicitudin turpis sollicitudin. Nulla vel auctor augue, ut hendrerit arcu. Nunc porta leo at velit euismod, egestas fringilla lectus commodo. Phasellus ac tristique nulla. Suspendisse convallis tellus ut metus vehicula mollis. Proin nec ipsum lectus.
+    </string>
+
+
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="judul_vg1">
+        Amazon Vertical Side
+    </string>
+
+    <string name="judul_vg2">
+        Backbone Green
+    </string>
+
+    <string name="judul_vg3">
+        Upside Garden neo
+    </string>
+
+    <string name="vergarden1">
+        lang elit. Donec rutrum nulla felis, vitae bibendum nunc rhoncus sit amet. Nulla dapibus tincidunt lorem sed feugiat. In gravida ligula sem, id dignissim massa ultrices a. Curabitur maximus, urna a fringilla eleifend, arcu quam tincidunt nunc, a ullamcorper arcu leo sit amet libero. Quisque ac efficitur lacus, nec lobortis dui. Mauris laoreet ullamcorper feugiat. Ut sagittis ligula a urna porta, a sollicitudin turpis sollicitudin. Nulla vel auctor augue, ut hendrerit arcu. Nunc porta leo at velit euismod, egestas fringilla lectus commodo. Phasellus ac tristique nulla. Suspendisse convallis tellus ut metus vehicula mollis. Proin nec ipsum lectus.
+    </string>
+
+    <string name="vergarden2">
+        lang elit. Donec rutrum nulla felis, vitae bibendum nunc rhoncus sit amet. Nulla dapibus tincidunt lorem sed feugiat. In gravida ligula sem, id dignissim massa ultrices a. Curabitur maximus, urna a fringilla eleifend, arcu quam tincidunt nunc, a ullamcorper arcu leo sit amet libero. Quisque ac efficitur lacus, nec lobortis dui. Mauris laoreet ullamcorper feugiat. Ut sagittis ligula a urna porta, a sollicitudin turpis sollicitudin. Nulla vel auctor augue, ut hendrerit arcu. Nunc porta leo at velit euismod, egestas fringilla lectus commodo. Phasellus ac tristique nulla. Suspendisse convallis tellus ut metus vehicula mollis. Proin nec ipsum lectus.
+    </string>
+
+    <string name="vergarden3">
+        lang elit. Donec rutrum nulla felis, vitae bibendum nunc rhoncus sit amet. Nulla dapibus tincidunt lorem sed feugiat. In gravida ligula sem, id dignissim massa ultrices a. Curabitur maximus, urna a fringilla eleifend, arcu quam tincidunt nunc, a ullamcorper arcu leo sit amet libero. Quisque ac efficitur lacus, nec lobortis dui. Mauris laoreet ullamcorper feugiat. Ut sagittis ligula a urna porta, a sollicitudin turpis sollicitudin. Nulla vel auctor augue, ut hendrerit arcu. Nunc porta leo at velit euismod, egestas fringilla lectus commodo. Phasellus ac tristique nulla. Suspendisse convallis tellus ut metus vehicula mollis. Proin nec ipsum lectus.
+    </string>
+
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <style name="relative_top_bar">
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:paddingTop">15dp</item>
+        <item name="android:background">@color/white</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="image_topbar">
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:layout_width">20dp</item>
+        <item name="android:layout_height">20dp</item>
+        <item name="android:animateOnClick">true</item>
+        <item name="android:tint">@color/black</item>
+        <item name="android:src">@drawable/backbutton_logo</item>
+    </style>
+
+    <style name="text_topbar">
+        <item name="android:layout_marginTop">12.5dp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">@font/sfdisplayheavy</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">28sp</item>
+    </style>
+
+    <style name="cardview_wmyhouse">
+        <item name="android:scaleType">center</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="cardCornerRadius">20dp</item>
+        <item name="elevation">10dp</item>
+        <item name="android:layout_height">220dp</item>
+        <item name="android:layout_width">170dp</item>
+    </style>
+
+    <style name="destext_content">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:justificationMode">inter_word</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">#5A5A5A</item>
+        <item name="fontFamily">@font/reguler</item>
+    </style>
+
+    <style name="judul_content">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="fontFamily">@font/sfdisplayheavy</item>
+    </style>
+
+    <style name="button_content">
+        <item name="android:textSize">12sp</item>
+        <item name="background">@drawable/buttonpressed</item>
+        <item name="fontFamily">@font/reguler</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="Widget.BottomNavigationView"
+        parent="Widget.Design.BottomNavigationView">
+        <item name="fontFamily">@font/light</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="tv_muyhouse">
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="fontFamily">@font/sfdisplayheavy</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>
